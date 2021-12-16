@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/twitter-copy-app/static/css/main.efc80894.chunk.css",
+    "main.js": "/twitter-copy-app/static/js/main.367067e0.chunk.js",
+    "main.js.map": "/twitter-copy-app/static/js/main.367067e0.chunk.js.map",
+    "runtime-main.js": "/twitter-copy-app/static/js/runtime-main.379dc2fd.js",
+    "runtime-main.js.map": "/twitter-copy-app/static/js/runtime-main.379dc2fd.js.map",
+    "static/css/2.9577fe66.chunk.css": "/twitter-copy-app/static/css/2.9577fe66.chunk.css",
+    "static/js/2.c56aef82.chunk.js": "/twitter-copy-app/static/js/2.c56aef82.chunk.js",
+    "static/js/2.c56aef82.chunk.js.map": "/twitter-copy-app/static/js/2.c56aef82.chunk.js.map",
+    "static/js/3.0b7ed3fb.chunk.js": "/twitter-copy-app/static/js/3.0b7ed3fb.chunk.js",
+    "static/js/3.0b7ed3fb.chunk.js.map": "/twitter-copy-app/static/js/3.0b7ed3fb.chunk.js.map",
+    "index.html": "/twitter-copy-app/index.html",
+    "static/css/2.9577fe66.chunk.css.map": "/twitter-copy-app/static/css/2.9577fe66.chunk.css.map",
+    "static/css/main.efc80894.chunk.css.map": "/twitter-copy-app/static/css/main.efc80894.chunk.css.map",
+    "static/js/2.c56aef82.chunk.js.LICENSE.txt": "/twitter-copy-app/static/js/2.c56aef82.chunk.js.LICENSE.txt",
+    "static/media/camera.d25775ca.svg": "/twitter-copy-app/static/media/camera.d25775ca.svg",
+    "static/media/close.da5c4222.svg": "/twitter-copy-app/static/media/close.da5c4222.svg",
+    "static/media/date-birth.a0465456.svg": "/twitter-copy-app/static/media/date-birth.a0465456.svg",
+    "static/media/error-404.fe6e5b62.png": "/twitter-copy-app/static/media/error-404.fe6e5b62.png",
+    "static/media/link.93889986.svg": "/twitter-copy-app/static/media/link.93889986.svg",
+    "static/media/location.6b82d71c.svg": "/twitter-copy-app/static/media/location.6b82d71c.svg",
+    "static/media/logo-white.13c88c37.png": "/twitter-copy-app/static/media/logo-white.13c88c37.png",
+    "static/media/logo.0d659bb2.png": "/twitter-copy-app/static/media/logo.0d659bb2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.379dc2fd.js",
+    "static/css/2.9577fe66.chunk.css",
+    "static/js/2.c56aef82.chunk.js",
+    "static/css/main.efc80894.chunk.css",
+    "static/js/main.367067e0.chunk.js"
+  ]
+}
